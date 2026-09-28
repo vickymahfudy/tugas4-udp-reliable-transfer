@@ -1,0 +1,41 @@
+{
+  "100KB": {
+    "udp": {
+      "elapsed_seconds": 0.0029,
+      "throughput_kbps": 34399.23,
+      "total_retransmits": 0,
+      "simulated_drops": 0
+    },
+    "tcp": {
+      "elapsed_seconds": 0.0003,
+      "throughput_kbps": 369173.97
+    },
+    "size_bytes": 102400
+  },
+  "1MB": {
+    "udp": {
+      "elapsed_seconds": 0.021,
+      "throughput_kbps": 48745.85,
+      "total_retransmits": 0,
+      "simulated_drops": 0
+    },
+    "tcp": {
+      "elapsed_seconds": 0.0008,
+      "throughput_kbps": 1356591.46
+    },
+    "size_bytes": 1048576
+  },
+  "10MB": {
+    "udp": {
+      "elapsed_seconds": 0.2213,
+      "throughput_kbps": 46268.38,
+      "total_retransmits": 0,
+      "simulated_drops": 0
+    },
+    "tcp": {
+      "elapsed_seconds": 0.0019,
+      "throughput_kbps": 5426844.65
+    },
+    "size_bytes": 10485760
+  }
+}

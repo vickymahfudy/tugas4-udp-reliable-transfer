@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+Kode/received_files/
+Kode/received_files_tcp/
+Kode/*.log
+Kode/test_input.bin

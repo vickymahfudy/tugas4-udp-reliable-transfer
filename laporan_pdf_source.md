@@ -1,7 +1,8 @@
 ---
 title: "Laporan Analisis: Tugas 4 Bagian 1.2 - Pengiriman File Melalui UDP dengan Keandalan"
-subtitle: "Vicky Mahfudy 25/573019/PPA/07207"
+subtitle: "Vicky Mahfudy 25/573019/PPA/07207 \\newline \\url{https://github.com/vickymahfudy/tugas4-udp-reliable-transfer}"
 header-includes:
+  - \usepackage{hyperref}
   - \usepackage{float}
   - \floatplacement{figure}{H}
 ---
